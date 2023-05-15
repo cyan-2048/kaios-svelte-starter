@@ -1,0 +1,33 @@
+{
+	"name": "Svelte App",
+	"description": "A starter template for Svelte and TypeScript.",
+	"version": "1.0.0",
+	"launch_path": "/index.html",
+	"theme": "#ff3e00",
+	"theme_color": "#ff3e00",
+	"background_color": "#ff3e00",
+	"fullscreen": "true",
+	"chrome": {
+		"statusbar": "overlap"
+	},
+	"orientation": "default",
+	"icons": {
+		"56": "/icon56.png",
+		"112": "/icon112.png"
+	},
+	"developer": {
+		"name": "cyan-2048",
+		"url": "https://github.com/cyan-2048/kaios-svelte-starter"
+	},
+	"origin": "app://svelte-app.cyankindasus.com",
+	"type": "privileged",
+	"permissions": {},
+	"locales": {
+		"en-US": {
+			"name": "Svelte App",
+			"subtitle": "A starter template for Svelte and TypeScript.",
+			"description": "A starter template for Svelte and TypeScript."
+		}
+	},
+	"default_locale": "en"
+}
